@@ -1,6 +1,6 @@
 pins = {"TioFani":1234, "Amin":1111,"Fahri":2222}
-pins["TioFani"] // Menampilkan value
-1234
+pins["Amin"] // Menampilkan value
+1111
 
 pins.keys()
 dict_keys(['TioFani', 'Amin', 'Fahri'])
@@ -28,9 +28,9 @@ pins
 
 
 >>> masukan = input("Masukan nama anda : ")
-Masukan nama anda : Tio
+Masukan nama anda : Amin
 >>> print(masukan)
-Tio
+Amin
 
 
 >>> bilangan = int(input("Masukan Bilangan : "))
